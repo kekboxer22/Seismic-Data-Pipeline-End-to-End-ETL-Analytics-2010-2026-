@@ -32,6 +32,7 @@ Optimization: Reduced the dataset to 690,505 clean, validated records ready for 
 Weekly Dynamics: Resampled data to identify global seismic "pulses" and activity spikes.
 
 Hotspot Analysis: Identified the top 10 most volatile regions (South Sandwich Islands, Fiji, Hawaii).
+https://github.com/kekboxer22/Seismic-Data-Pipeline-End-to-End-ETL-Analytics-2010-2026-/blob/main/seismic_hotspots.png
 
 WEEKLY SEISMIC INCIDENT DYNAMICS
 https://github.com/kekboxer22/Seismic-Data-Pipeline-End-to-End-ETL-Analytics-2010-2026-/blob/main/weekly%20seismic.png
