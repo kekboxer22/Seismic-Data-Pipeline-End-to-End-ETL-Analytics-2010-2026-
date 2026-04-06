@@ -50,20 +50,7 @@ Time Resolution: Weekly & Monthly Aggregations
 Database Status: Fully Synchronized with PostgreSQL
 
 #How to Run
-Clone the repo:
-
-Bash
-
-git clone https://github.com/kekboxer22/seismic-etl-pipeline.git
-Install dependencies:
-
-Bash
-
-pip install pandas sqlalchemy psycopg2 matplotlib
-Configure Database:
-Update the create_engine string in the notebook with your PostgreSQL credentials.
-
-Execute: Run the Jupyter Notebook to trigger the full ETL cycle.
+https://colab.research.google.com/github/kekboxer22/Seismic-Data-Pipeline-End-to-End-ETL-Analytics-2010-2026-/blob/main/Data%20Poject%20Earthquick.ipynb
 
 # Visualization Preview
 The pipeline generates high-density charts including Weekly Incident Dynamics and Geographical Hotspot distributions.
