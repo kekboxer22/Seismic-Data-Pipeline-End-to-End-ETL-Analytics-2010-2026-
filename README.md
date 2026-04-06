@@ -33,7 +33,8 @@ Weekly Dynamics: Resampled data to identify global seismic "pulses" and activity
 
 Hotspot Analysis: Identified the top 10 most volatile regions (South Sandwich Islands, Fiji, Hawaii).
 
-Anomaly Detection: Separated "background noise" (Average Magnitudes) from extreme events (Magnitude > 7.5) using minimalist visualization techniques.
+WEEKLY SEISMIC INCIDENT DYNAMICS
+https://github.com/kekboxer22/Seismic-Data-Pipeline-End-to-End-ETL-Analytics-2010-2026-/blob/main/weekly%20seismic.png
 
 #4 Database Loading (PostgreSQL)
 Implemented an automated migration script using SQLAlchemy.
